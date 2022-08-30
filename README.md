@@ -1,2 +1,2 @@
 # CPP-Project
-Contact Management In C++ 
+Simple Contact Management project Using C++ 
